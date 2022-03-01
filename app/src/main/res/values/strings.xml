@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lab01</string>
+    <string name="questo_bottone_non_fa_niente">Questo bottone non fa niente!</string>
+    <string name="buon_compleanno">Buon Compleanno!</string>
+    <string name="da_elisa">da Elisa</string>
+    <string name="todo">TODO</string>
 </resources>
